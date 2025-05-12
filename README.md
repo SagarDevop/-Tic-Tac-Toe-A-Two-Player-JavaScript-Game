@@ -9,7 +9,7 @@ A simple **Tic Tac Toe** game for two players, built using **HTML, CSS, and Java
 ✅ Simple and responsive UI  
 
 ## 📸 Screenshot  
-![Game Preview](./screenshots.png) *(Replace with an actual screenshot of your game)*  
+![Game Preview](./screenshots.png) 
 
 ## 🎮 How to Play?  
 1. **Player 1** starts with **X**, and **Player 2** plays as **O**.  
@@ -24,7 +24,7 @@ A simple **Tic Tac Toe** game for two players, built using **HTML, CSS, and Java
    git clone https://github.com/SagarDevop/tic-tac-toe.git
 
 🌐 Live Demo
-Live Demo Here (http://127.0.0.1:5501/index.html)
+Live Demo Here (https://tic-tac-toe-a-two-player-javascript-game.onrender.com)
 
 🛠 Technologies Used
 HTML – Game structure
